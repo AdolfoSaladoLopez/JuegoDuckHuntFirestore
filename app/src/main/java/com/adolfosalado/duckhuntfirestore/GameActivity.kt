@@ -113,7 +113,7 @@ class GameActivity : AppCompatActivity() {
     }
 
     private fun initCuentaAtras() {
-        object : CountDownTimer(10000, 1000) {
+        object : CountDownTimer(60000, 1000) {
             override fun onTick(millisUntilFinished: Long) {
                 val segundosRestantes = millisUntilFinished / 1000
                 val texto = "${segundosRestantes}s"

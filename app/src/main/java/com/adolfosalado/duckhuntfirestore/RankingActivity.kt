@@ -86,9 +86,6 @@ class RankingActivity : AppCompatActivity(), View.OnClickListener {
             mostrarRanking()
         }
 
-
-
-
     }
 
     private fun mostrarRanking() {

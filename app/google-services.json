@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "262887897491",
+    "project_id": "duckhuntfirestore",
+    "storage_bucket": "duckhuntfirestore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262887897491:android:0dd7061f6c2d78e7729066",
+        "android_client_info": {
+          "package_name": "com.adolfosalado.duckhuntfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262887897491-8qjh27knhvbj1mi51i34hvuk4bi6siia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFc5I7G2KdnbbmBZU-WNWRjnH0cKrPY2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262887897491-8qjh27knhvbj1mi51i34hvuk4bi6siia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262887897491:android:deee6a3bb3d18e07729066",
+        "android_client_info": {
+          "package_name": "com.example.duckhuntfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262887897491-8qjh27knhvbj1mi51i34hvuk4bi6siia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFc5I7G2KdnbbmBZU-WNWRjnH0cKrPY2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262887897491-8qjh27knhvbj1mi51i34hvuk4bi6siia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
